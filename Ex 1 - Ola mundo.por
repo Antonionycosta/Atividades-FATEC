@@ -3,17 +3,10 @@
 // Data: 10/03/2023
 // Nome: Antoniony Marques de Oliveira Costa
 
-
-
 programa
 {
 	funcao inicio (){
-		cadeia Nome1
-		
-		escreva("Qual o seu nome? ")
-		leia (Nome1)
-	
-		escreva("Olá, ", Nome1, ", é um prazer te conhecer")}
+		escreva("Olá, Mundo!")}
 }
 /* $$$ Portugol Studio $$$ 
  * 
